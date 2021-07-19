@@ -6,4 +6,4 @@ Hope you enjoy this game. Any modification in this game would be highly apprecia
 
 Run
 =========
-hangman.py
+hangman1.py
